@@ -4,6 +4,7 @@ NameStone’s internal mantra is “your name, your way, fast”. We aim to deli
 
 ### Our Resolvers
 _Updated Oct 10, 2024_
+`0xa87361c4e58b619c390f469b9e6f27d759715125` 
 
 `0x2291053F49Cd008306b92f84a61c6a1bC9B5CB65`
 
@@ -13,6 +14,4 @@ _Updated Oct 10, 2024_
 
 `0xd17347fA0a6eeC89a226c96a9ae354F785e94241`
 
--- to be added --
 
-`0xa87361c4e58b619c390f469b9e6f27d759715125` -- fixes bug where offchain takes priority over onchain.
