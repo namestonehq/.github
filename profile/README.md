@@ -5,7 +5,7 @@ NameStone’s mantra is “Your name, your way, fast.” We deliver subdomains t
 ### Our Resolvers
 _Updated Jan 7, 2025_
 
-mainnet: [`0xd17347fA0a6eeC89a226c96a9ae354F785e94241`](https://etherscan.io/address/0xd17347fA0a6eeC89a226c96a9ae354F785e94241)
+mainnet: [`0xA87361C4E58B619c390f469B9E6F27d759715125`](https://etherscan.io/address/0xA87361C4E58B619c390f469B9E6F27d759715125)
 
 sepolia: [`0x467893bFE201F8EfEa09BBD53fB69282e6001595`](https://eth-sepolia.blockscout.com/address/0x467893bFE201F8EfEa09BBD53fB69282e6001595?tab=contract)
 
