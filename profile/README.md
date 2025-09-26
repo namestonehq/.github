@@ -1,6 +1,6 @@
 ## NameStone
 
-NameStone’s mantra is “Your name, your way, fast.” We deliver subdomains tailored to your needs—whether it’s gasless issuance or deploying on the L2 of your choice, from trusted to trustless solutions. Whatever your business requires, we are here to serve. Our number one goal is to support ENS in becoming the first and last username for every person, business, and event on the planet.
+Our number one goal is to support ENS in becoming the first and last username for every person, business, and event on the planet.
 
 ## Our Products
 
